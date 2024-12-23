@@ -1,8 +1,11 @@
 ## Hi there 👋
 
 ###  Web3 & Blockchain | Java/Python/Go Developer |  Data Engineer
-More on ✏️ [Yige's Blog](https://blog.cjwdream.top/zh/) 
+**🌱 I'm looking for a job, Link me**
+- 📫 adairchan.dream@gmail.com
 
+## ✏️ Blogs 
+More on [Yige's Blog](https://blog.cjwdream.top/zh/) 
 - [Gas 优化总结](https://blog.cjwdream.top/zh/2024/05/gas-%E4%BC%98%E5%8C%96%E6%80%BB%E7%BB%93/)
 - [合约升级](https://blog.cjwdream.top/zh/2024/03/solidity-%E5%90%88%E7%BA%A6%E5%8D%87%E7%BA%A7/)
 - [solidity-合约存储布局](https://blog.cjwdream.top/zh/2024/03/solidity-%E5%90%88%E7%BA%A6%E5%AD%98%E5%82%A8%E5%B8%83%E5%B1%80/)
@@ -19,8 +22,6 @@ More on ✏️ [Yige's Blog](https://blog.cjwdream.top/zh/)
 | [![Yige's github stats](https://github-readme-stats.vercel.app/api?username=EgoSay&show_icons=true&theme=merko&hide_border=true)  |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EgoSay&layout=compact&theme=merko&hide_border=true&hide=css,html,ruby)](https://github.com/EgoSay)|
 | ------------- | ------------- |
 
-**🌱 I'm looking for a job, Link me**
-- 📫 adairchan.dream@gmail.com
 
 <!--
 **EgoSay/EgoSay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
