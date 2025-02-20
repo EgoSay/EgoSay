@@ -10,7 +10,8 @@ More on [Yige's Blog](https://blog.cjwdream.top/zh/)
 - [合约升级](https://blog.cjwdream.top/zh/2024/03/solidity-%E5%90%88%E7%BA%A6%E5%8D%87%E7%BA%A7/)
 - [solidity-合约存储布局](https://blog.cjwdream.top/zh/2024/03/solidity-%E5%90%88%E7%BA%A6%E5%AD%98%E5%82%A8%E5%B8%83%E5%B1%80/)
 - [Spark 调优总结](https://blog.cjwdream.top/zh/2020/03/spark%E8%BF%9B%E9%98%B6-spark%E8%B0%83%E4%BC%98%E6%80%BB%E7%BB%93/)
-- [分布式锁实现](https://blog.cjwdream.top/zh/2020/02/%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81/) 
+- [分布式锁实现](https://blog.cjwdream.top/zh/2020/02/%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81/)
+- [数仓体系建设](https://blog.cjwdream.top/zh/tags/%E6%95%B0%E4%BB%93%E4%BD%93%E7%B3%BB%E5%BB%BA%E8%AE%BE/)
 
 ## Latest projects
 - [dapps garden](https://github.com/EgoSay/dapps-garden): A collection of dapps on Ethereum. Build with Solidity、next.js、wagmi、ipfs.
