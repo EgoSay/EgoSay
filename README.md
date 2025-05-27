@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 ###  Web3 & Blockchain | Java/Python/Go Developer |  Data Engineer
+
+<!--
 **🌱 I'm looking for a job, Link me**
 - 📫 adairchan.dream@gmail.com
 
@@ -17,7 +19,7 @@ More on [Yige's Blog](https://blog.cjwdream.top/zh/)
 - [dapps garden](https://github.com/EgoSay/dapps-garden): A collection of dapps on Ethereum. Build with Solidity、next.js、wagmi、ipfs.
 - [Blockchain from Scratch](https://github.com/EgoSay/blockchain-from-scratch): Build a blockchain with Go, understanding the core mechanics of blockchain.
 - [artistic-python](https://github.com/EgoSay/artistic-python): The Programming art in python 
-
+-->
 ## GitHub Estatísticas
 
 | [![Yige's github stats](https://github-readme-stats.vercel.app/api?username=EgoSay&show_icons=true&theme=merko&hide_border=true)  |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EgoSay&layout=compact&theme=merko&hide_border=true&hide=css,html,ruby)](https://github.com/EgoSay)|
