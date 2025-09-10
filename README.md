@@ -20,10 +20,13 @@ More on [Yige's Blog](https://blog.cjwdream.top/zh/)
 - [Blockchain from Scratch](https://github.com/EgoSay/blockchain-from-scratch): Build a blockchain with Go, understanding the core mechanics of blockchain.
 - [artistic-python](https://github.com/EgoSay/artistic-python): The Programming art in python 
 -->
-## GitHub Estatísticas
 
-| ![Yige's github stats](https://github-readme-stats.vercel.app/api?username=EgoSay&show_icons=true&theme=merko&hide_border=true)  |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EgoSay&layout=compact&theme=merko&hide_border=true&hide=css,html,ruby)](https://github.com/EgoSay)|
+<!--
+## GitHub Estatísticas
+ ![Yige's github stats](https://github-readme-stats.vercel.app/api?username=EgoSay&show_icons=true&theme=merko&hide_border=true)  |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EgoSay&layout=compact&theme=merko&hide_border=true&hide=css,html,ruby)](https://github.com/EgoSay)|
 | ------------- | ------------- |
+-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EgoSay&layout=compact&theme=merko&hide_border=true&hide=css,html,ruby)
 
 
 <!--
